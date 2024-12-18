@@ -1,0 +1,2 @@
+// kodlari yazdin
+// tapsiriq hazirdi
