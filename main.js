@@ -1,2 +1,1 @@
-// kodlari yazdin
-// tapsiriq hazirdi
+let defaultNum = 5;
